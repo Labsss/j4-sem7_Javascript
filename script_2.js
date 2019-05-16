@@ -5,7 +5,7 @@ if (number<0) {
     }
 else  {
   if (number == 0)
-  console.log("C'est nul, j'ai besoin d'un nombre strictement positif stp !");
+  console.log("C'est nul, j'ai besoin d'un nombre strictement positif ! Fais un effort stp !");
     } 
 
 let f = 1;
