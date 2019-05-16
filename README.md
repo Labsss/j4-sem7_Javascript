@@ -1,6 +1,6 @@
 # j4-sem7_Javascript
 
-Made in Toulouse with full love by Brice Jones aka ##### @brice & Alexandre Labonne aka ##### @Lab's !
+Made in Toulouse with full love by Brice Jones aka @brice & Alexandre Labonne aka @Lab's !
 
 ### Pour faire tourner l'application :
 
